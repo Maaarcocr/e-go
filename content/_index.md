@@ -4,7 +4,7 @@ sottotitolo: "#trusttheproXess"
 logo: /img/logo.jpeg
 sezioni:
   - titolo: Follow us on instagram / Seguici su Instagram !
-    descrizione: Be ready
+    descrizione: enextleague - Be ready
   - titolo: "Il nostro scopo:"
     descrizione: Vogliamo contribuire alla creazione di una nuova concezione
       riguardo il mondo degli e-sports in Italia ed in Europa, stabilire nuovi

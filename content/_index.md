@@ -1,6 +1,7 @@
 ---
 titolo: eNext league
 sottotitolo: hahaha
-logo: /img/images.jpeg
+logo: /img/logo.jpeg
+sezioni:
 ---
 Hello World

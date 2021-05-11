@@ -1,8 +1,8 @@
 ---
 titolo: eNext league
-sottotitolo: hahaha
+sottotitolo: "#trusttheproXess"
 logo: /img/logo.jpeg
 sezioni:
-  - titolo: ciao
-    descrizione: come stai
+  - titolo: Follow us on instagram / Seguici su Instagram !
+    descrizione: Be ready
 ---

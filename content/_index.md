@@ -12,7 +12,7 @@ sezioni:
   - titolo: "Come faremo:"
     descrizione: Portando gli e-sports a tutti, partendo da settori come quello dei
       casual players, studenti e piccole società.  Migliorando il sistema
-      attuale di diffusione broadcast dei tornei tramite live streaming,
-      streaming, video su youtube e una grande accompagnamento social
-      (instagram, tik tok, facebook).
+      attuale di diffusione broadcast dei tornei tramite live streaming, video
+      su youtube e una grande accompagnamento social (instagram, tik tok,
+      facebook).
 ---
